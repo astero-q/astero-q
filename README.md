@@ -29,9 +29,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/miracle_tsx)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=developer-miracle&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=developer-miracle&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-miracle&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=astero-q&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=astero-q&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=astero-q&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
